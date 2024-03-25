@@ -1,1 +1,1 @@
-This project is for practising the knowledge of git and github use success(done)
+This project is to practise a git pull from github success(done)
